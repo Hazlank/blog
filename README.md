@@ -33,3 +33,6 @@
 [KMP - 字符串查找算法](https://github.com/Hazlank/blog/issues/11)
 
 [BackTracking - 回溯算法](https://github.com/Hazlank/blog/issues/12)
+
+### 前端杂事
+[前端浏览器兼容性处理](https://github.com/Hazlank/blog/issues/21)
